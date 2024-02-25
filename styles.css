@@ -58,6 +58,79 @@ nav a {
 }
 
 /* INDEX */
+/* About Us Section */
+.about-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddd;
+    padding: 20px;
+    margin: 20px;
+}
+
+.about-us div {
+    text-align: center;
+}
+
+.about-us p {
+    font-size: 18px;
+}
+
+.about-us b {
+    text-decoration: underline;
+}
+
+/* Shop Now Section */
+.shop-now {
+    text-align: center;
+    margin: 20px;
+}
+
+.shop-now button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Customer Reviews Section */
+.customer-reviews {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddd;
+    padding: 20px;
+    margin: 20px;
+}
+
+.customer-reviews div {
+    text-align: center;
+}
+
+.customer-reviews p {
+    font-size: 18px;
+}
+
+.customer-reviews b {
+    text-decoration: underline;
+}
+
+.customer-reviews table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.customer-reviews th, .customer-reviews td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.customer-reviews th {
+    background-color: #f2f2f2;
+}
 
 
 
